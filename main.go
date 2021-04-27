@@ -5,6 +5,7 @@ import (
 	"./controller"
 	"github.com/gin-gonic/gin"
 	_ "github.com/go-sql-driver/mysql"
+	//gorm is broken?
 )
 
 func main() {
